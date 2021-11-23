@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Kris
+- 👀 I’m interested in Education, Cyber Security, AI, programming and blockchain. 
+- 🌱 Find all my projects and tools here.
+- 📫 Get in touch via https://www.linkedin.com/in/krisztian-kovacs-4b93b31bb/
