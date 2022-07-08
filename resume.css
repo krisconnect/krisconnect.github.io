@@ -59,7 +59,7 @@ li {
     position: relative;
     /* for disclaimer */
     width: var(--sidebar-width);
-    height: 130%;
+    height: 135%;
     padding: 0.6in var(--sidebar-horizontal-padding);
     background-color: #f2f2f2;
     font-size: 8.5pt;
